@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Classes\Levels\Level.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SceneContollingSripts\LevelsSceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Classes\Levels\Level.cs" Line="1" Column="1" />
+      <File FileName="Assets\Classes\Levels\Goal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Classes\Levels\LevelBundle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneContollingSripts\SceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InterFaceScripts\CellLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneContollingSripts\MainSceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneContollingSripts\ComputerSceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InterFaceScripts\CellPVC.cs" Line="1" Column="1" />
+      <File FileName="Assets\Classes\Game\MainManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneContollingSripts\LevelConstructor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AnimationScripts\ScreenManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InterFaceScripts\ScrolViewScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NetworkManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InterFaceScripts\MyThingItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InterFaceScripts\ListItemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InterFaceScripts\DownloadItem.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
